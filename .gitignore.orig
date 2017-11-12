@@ -262,4 +262,8 @@ __pycache__/
 /TheWildeyesBand.sln
 /TheWildeyesBand/wwwroot/dist/ca0a432511b311ed0832d2b1c84d8040.jpg
 *.dll
+<<<<<<< HEAD
+=======
+*.jpg
 TheWildeyesBand/wwwroot/*
+>>>>>>> 34bb4a6... added some ppt

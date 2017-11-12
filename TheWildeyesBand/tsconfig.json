@@ -10,9 +10,6 @@
     "strict": true,
     "types": [ "webpack-env" ]
   },
-  "files": [
-    "ClientApp/typings/custom-typings.d.ts"
-  ],
   "exclude": [
       "bin",
       "node_modules"
